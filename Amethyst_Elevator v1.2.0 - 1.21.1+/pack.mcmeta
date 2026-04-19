@@ -1,0 +1,15 @@
+{
+  "pack": {
+    "pack_format": 48,
+    "supported_formats": {"min_inclusive": 48, "max_inclusive": 9999},
+    "description": [
+      {"text": "✨ Amethyst Elevator ✨", "color": "#d17cff"},
+      "\n",
+      {"text": "Jump ↑ | Sneak ↓", "color": "#aaaaaa"},
+      "\n\n",
+      {"text": "Effortless vertical travel with amethyst blocks.", "color": "#888888"},
+      "\n",
+      {"text": "⚡ Fast • 🛠️ No Redstone • 👥 Multiplayer Friendly", "color": "#55ff55"}
+    ]
+  }
+}
